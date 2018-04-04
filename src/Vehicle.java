@@ -1,5 +1,5 @@
 
-public class Pojazd {
+public class Vehicle {
 	String czyJedzie() {
 		return "Pojazd jedzie";
 	}
